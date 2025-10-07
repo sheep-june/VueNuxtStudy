@@ -1,7 +1,7 @@
 <script setup>
+const message = "There";
 </script>
 
 <template>
-  <FrontWheel/>
-  <RearWheel/>
+  <div>Hello {{message}}</div>
 </template>
