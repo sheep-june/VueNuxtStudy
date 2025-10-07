@@ -2,6 +2,5 @@
 </script>
 
 <template>
-  <FrontWheel/>
-  <RearWheel/>
+    <div>BLACK TIRE</div>
 </template>
